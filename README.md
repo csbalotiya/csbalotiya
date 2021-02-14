@@ -2,7 +2,8 @@
 
 - 👀 I’m interested in Coding💡 and Basketball🏀
 - 🌱 I’m currently learning App Development
-- 📫 How to reach me ... https://github.com/csbalotiya
+- 📫 How to reach me ... 
+            Linkedin:  https://www.linkedin.com/in/chandrashekhar-balotiya-6a44141aa
 
 
 <!---
