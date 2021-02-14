@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @csbalotiya
 - 👀 I’m interested in Coding💡 and Basketball🏀
-- 🌱 I’m currently learning ....
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning App Development
 - 📫 How to reach me ... https://github.com/csbalotiya
 
 <!---
