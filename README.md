@@ -15,7 +15,7 @@ Hi there! I'm Chandarashekhar, a passionate backend developer with over 3 years 
   - **Technologies**: Java, Andriod Studio, XML, JSON APIs
   - **Features**: Data visualization, API integration, Android
  
-- **📊 [Data Structure and Algorithm](https://github.com/csbalotiya/Data-Structure-And-Algorithms)**
+- **🧠 [Data Structure and Algorithm](https://github.com/csbalotiya/Data-Structure-And-Algorithms)**
   - **Description**: A treasure trove of essential and classic DSA questions designed for online assessments or interviews.
   - **Technologies**: CPP, Data Structures
   - **Features**: problem Solving
