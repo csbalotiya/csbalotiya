@@ -1,6 +1,9 @@
 # CS Balotiya
 Backend Developer | Python Enthusiast | Open Source Contributor
 
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" height="250">
+
+
 ## 🌟 About Me
 Hi there! I'm Chandarashekhar, a passionate backend developer with over 3 years of experience in crafting scalable and efficient web applications. I love diving into new technologies and continuously improving my skills. When I'm not coding, you can find me hiking or playing Basketball🏀.
 
