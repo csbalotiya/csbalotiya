@@ -27,7 +27,7 @@ Hi there! I'm Chandarashekhar, a passionate backend developer with over 3 years 
 - **Tools**: MicroService, Docker, Git, JUnit 
 
 ## 🔗 Contact Me
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/chandrashekhar-balotiya-6a44141aa).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/chandrashekhar-balotiya-6a44141aa) & [LeetCode](https://leetcode.com/u/cs_balotiya/).
 
 ## 📈 GitHub Stats
 ![CS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=csbalotiya&show_icons=true&theme=radical)
