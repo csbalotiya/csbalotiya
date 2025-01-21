@@ -25,9 +25,9 @@ Hi there! I'm Chandarashekhar, a passionate backend developer with over 3 years 
 
 ## 🛠️ Skills
 - **Languages**: Java, Groovy, C++, C, GoLang, Python, Robotic Process Automation
-- **Frameworks**: Spring Boot, Spring MVC, Hibernate, Gin
+- **Frameworks**: Spring Boot, Spring MVC, Hibernate, JPA, Gin, Gorm
 - **Databases**: MySQL, PostgreSQL, MsSQL
-- **Tools**: MicroService, Docker, Git, JUnit 
+- **Tools**: AWS MicroService, Docker, Git, JUnit 
 
 ## 🔗 Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/chandrashekhar-balotiya-6a44141aa) & [LeetCode](https://leetcode.com/u/cs_balotiya/).
